@@ -3,7 +3,7 @@
   "short_name": "FlashRead",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0a0a0a",
-  "theme_color": "#0a0a0a",
+  "background_color": "#0b0b0d",
+  "theme_color": "#0b0b0d",
   "icons": []
 }
